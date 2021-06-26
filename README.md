@@ -1,5 +1,5 @@
-# Weather Detection
-Hi I made this project using <b><i>Python</i></b>.
+# React.js Website
+Hi I made this project using <b><i>JavaScript and React.js</i></b>.
 <p>You can follow me on:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
