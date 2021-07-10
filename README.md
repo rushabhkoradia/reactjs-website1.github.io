@@ -1,4 +1,4 @@
-# JavaScript & React.js Website
+# Basic JavaScript & React.js Website
 Hi I made this project using pure <b><i>JavaScript & React.js</i></b>.
 <p>You can follow me on:</p>
 <ul>
